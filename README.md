@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mauri-py, and Im 15 years old.
+- 👀 I’m interested in learning different programming languages.
+- 🌱 I’m currently learning python but i'm starting, i also know c++, html and a bit of css.
